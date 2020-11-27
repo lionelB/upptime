@@ -36,7 +36,7 @@
     "url": "https://serving-ml.fabrique.social.gouv.fr/v1/models/sentqam",
     "slug": "serving-ml",
     "status": "up",
-    "uptime": "18.27%",
+    "uptime": "99.68%",
     "time": 438
   },
   {
@@ -155,9 +155,9 @@
     "name": "Sentry",
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 784
+    "status": "down",
+    "uptime": "99.97%",
+    "time": 2724
   },
   {
     "name": "Mattermost",
