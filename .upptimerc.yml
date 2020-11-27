@@ -12,8 +12,12 @@ sites:
     url: https://code.travail.gouv.fr
   - name: siret2idcc
     url: https://siret2idcc.fabrique.social.gouv.fr/api/v2/82161143100015,80258570300027
+  - name: serving-ml
+    url: https://serving-ml.fabrique.social.gouv.fr/
   - name: emjpm
     url: https://emjpm.fabrique.social.gouv.fr
+  - name: portail PJM
+    url: https://pjm.social.gouv.fr/
   - name: work-in-france
     url: https://work-in-france.fabrique.social.gouv.fr
   - name: covid-19
@@ -36,6 +40,14 @@ sites:
     url: https://monsuivipsy.fabrique.social.gouv.fr/
   - name: OzEnsemble
     url: https://ozensemble.fabrique.social.gouv.fr/
+  - name: Matomo
+    url: https://matomo.fabrique.social.gouv.fr/
+  - name: Sentry
+    url: https://sentry.fabrique.social.gouv.fr/
+  - name: Mattermost
+    url: https://mattermost.fabrique.social.gouv.fr/
+  - name: NextCloud
+    url: https://nextcloud.fabrique.social.gouv.fr/
 
 
 status-website:
