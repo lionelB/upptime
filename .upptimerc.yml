@@ -1,29 +1,52 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: SocialGouv # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Fabrique
+    url: https://fabrique.social.gouv.fr
+  - name: Index EgaPro
+    url: http://index-egapro.travail.gouv.fr/
+  - name: Code du travail numérique
+    url: https://code.travail.gouv.fr
+  - name: siret2idcc
+    url: https://siret2idcc.fabrique.social.gouv.fr/api/v2/82161143100015,80258570300027
+  - name: emjpm
+    url: https://emjpm.fabrique.social.gouv.fr
+  - name: work-in-france
+    url: https://work-in-france.fabrique.social.gouv.fr
+  - name: covid-19
+    url: https://covid-19.sante.gouv.fr
+  - name: TuMePlay
+    url: https://tumeplay.fabrique.social.gouv.fr/
+  - name: medlé
+    url: https://medle.fabrique.social.gouv.fr/
+  - name: ONVS
+    url: https://onvs.fabrique.social.gouv.fr/
+  - name: DomiFa
+    url: https://domifa.fabrique.social.gouv.fr/
+  - name: Standup
+    url: https://standup.fabrique.social.gouv.fr/
+  - name: Carnets
+    url: https://carnets.fabrique.social.gouv.fr/
+  - name: Archifiltre
+    url: https://archifiltre.fabrique.social.gouv.fr/
+  - name: MonSuiviPsy
+    url: https://monsuivipsy.fabrique.social.gouv.fr/
+  - name: OzEnsemble
+    url: https://ozensemble.fabrique.social.gouv.fr/
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  baseUrl: /upptime
+  logoUrl: https://github.com/SocialGouv/support/raw/master/docs/_media/marianne-small.jpeg
+  name: SocialGouv Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: Toutes ls urls SocialGouv
   navbar:
     - title: Status
       href: /
