@@ -1,42 +1,130 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Fabrique",
+    "url": "https://fabrique.social.gouv.fr",
+    "slug": "fabrique",
     "status": "up",
     "uptime": "100.00%",
-    "time": 122
+    "time": 1184
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Index EgaPro",
+    "url": "http://index-egapro.travail.gouv.fr/",
+    "slug": "index-ega-pro",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 349
+    "uptime": "100.00%",
+    "time": 731
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Code du travail numérique",
+    "url": "https://code.travail.gouv.fr",
+    "slug": "code-du-travail-numerique",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 988
+  },
+  {
+    "name": "siret2idcc",
+    "url": "https://siret2idcc.fabrique.social.gouv.fr/api/v2/82161143100015,80258570300027",
+    "slug": "siret2idcc",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 566
+  },
+  {
+    "name": "emjpm",
+    "url": "https://emjpm.fabrique.social.gouv.fr",
+    "slug": "emjpm",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 827
+  },
+  {
+    "name": "work-in-france",
+    "url": "https://work-in-france.fabrique.social.gouv.fr",
+    "slug": "work-in-france",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 581
+  },
+  {
+    "name": "covid-19",
+    "url": "https://covid-19.sante.gouv.fr",
+    "slug": "covid-19",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 700
+  },
+  {
+    "name": "TuMePlay",
+    "url": "https://tumeplay.fabrique.social.gouv.fr/",
+    "slug": "tu-me-play",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 581
+  },
+  {
+    "name": "medlé",
+    "url": "https://medle.fabrique.social.gouv.fr/",
+    "slug": "medle",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 429
+  },
+  {
+    "name": "ONVS",
+    "url": "https://onvs.fabrique.social.gouv.fr/",
+    "slug": "onvs",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 557
+  },
+  {
+    "name": "DomiFa",
+    "url": "https://domifa.fabrique.social.gouv.fr/",
+    "slug": "domi-fa",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 380
+  },
+  {
+    "name": "Standup",
+    "url": "https://standup.fabrique.social.gouv.fr/",
+    "slug": "standup",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1123
+  },
+  {
+    "name": "Carnets",
+    "url": "https://carnets.fabrique.social.gouv.fr/",
+    "slug": "carnets",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 804
+  },
+  {
+    "name": "Archifiltre",
+    "url": "https://archifiltre.fabrique.social.gouv.fr/",
+    "slug": "archifiltre",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 561
+  },
+  {
+    "name": "MonSuiviPsy",
+    "url": "https://monsuivipsy.fabrique.social.gouv.fr/",
+    "slug": "mon-suivi-psy",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 641
+  },
+  {
+    "name": "OzEnsemble",
+    "url": "https://ozensemble.fabrique.social.gouv.fr/",
+    "slug": "oz-ensemble",
     "status": "down",
     "uptime": "0.00%",
     "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "time": 48
   }
 ]
