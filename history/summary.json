@@ -36,7 +36,7 @@
     "url": "https://serving-ml.fabrique.social.gouv.fr/v1/models/sentqam",
     "slug": "serving-ml",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "time": 441
   },
   {
@@ -139,9 +139,9 @@
     "name": "OzEnsemble",
     "url": "https://ozensemble.fabrique.social.gouv.fr/",
     "slug": "oz-ensemble",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "time": 0
+    "time": 69
   },
   {
     "name": "Matomo",
@@ -156,7 +156,7 @@
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.71%",
     "time": 1380
   },
   {
