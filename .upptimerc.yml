@@ -31,9 +31,9 @@ sites:
   - name: DomiFa
     url: https://domifa.fabrique.social.gouv.fr/
   - name: Standup
-    url: https://standup.fabrique.social.gouv.fr/
+    url: https://standup.fabrique.social.gouv.fr/healthz
   - name: Carnets
-    url: https://carnets.fabrique.social.gouv.fr/
+    url: https://carnets.fabrique.social.gouv.fr/api/healthz
   - name: Archifiltre
     url: https://archifiltre.fabrique.social.gouv.fr/
   - name: MonSuiviPsy

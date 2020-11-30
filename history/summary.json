@@ -105,15 +105,15 @@
   },
   {
     "name": "Standup",
-    "url": "https://standup.fabrique.social.gouv.fr/",
+    "url": "https://standup.fabrique.social.gouv.fr/healthz",
     "slug": "standup",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.91%",
     "time": 1042
   },
   {
     "name": "Carnets",
-    "url": "https://carnets.fabrique.social.gouv.fr/",
+    "url": "https://carnets.fabrique.social.gouv.fr/api/healthz",
     "slug": "carnets",
     "status": "up",
     "uptime": "100.00%",
@@ -140,7 +140,7 @@
     "url": "https://ozensemble.fabrique.social.gouv.fr/",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "0.40%",
     "time": 69
   },
   {
