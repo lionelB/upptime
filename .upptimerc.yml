@@ -51,6 +51,9 @@ sites:
   - name: Sample Next App
     url: https://sample-next-app.fabrique.social.gouv.fr
 
+commitMessages:
+  commitAuthorName: "Social Groovy Bot"
+  commitAuthorEmail: "45039513+SocialGroovyBot@users.noreply.github.com"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
