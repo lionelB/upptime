@@ -1,7 +1,7 @@
 url: https://standup.fabrique.social.gouv.fr/healthz  
 status: up
 code: 200
-responseTime: 415
-lastUpdated: 2020-12-02T23:12:51.657Z
+responseTime: 405
+lastUpdated: 2020-12-03T23:12:29.854Z
 startTime: Fri Nov 27 2020 08:23:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
