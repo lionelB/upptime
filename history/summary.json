@@ -44,8 +44,8 @@
     "url": "https://emjpm.fabrique.social.gouv.fr",
     "slug": "emjpm",
     "status": "up",
-    "uptime": "100.00%",
-    "time": 851
+    "uptime": "99.97%",
+    "time": 795
   },
   {
     "name": "portail PJM",
@@ -140,7 +140,7 @@
     "url": "https://ozensemble.fabrique.social.gouv.fr/",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "64.83%",
+    "uptime": "66.52%",
     "time": 411
   },
   {
@@ -156,7 +156,7 @@
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.66%",
     "time": 1531
   },
   {
