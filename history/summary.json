@@ -5,7 +5,7 @@
     "slug": "fabrique",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1182
+    "time": 1181
   },
   {
     "name": "Index EgaPro",
@@ -13,7 +13,7 @@
     "slug": "index-ega-pro",
     "status": "up",
     "uptime": "100.00%",
-    "time": 786
+    "time": 785
   },
   {
     "name": "Code du travail",
@@ -21,7 +21,7 @@
     "slug": "code-du-travail",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1246
+    "time": 1235
   },
   {
     "name": "siret2idcc",
@@ -29,15 +29,15 @@
     "slug": "siret2idcc",
     "status": "up",
     "uptime": "100.00%",
-    "time": 616
+    "time": 617
   },
   {
     "name": "serving-ml",
     "url": "https://serving-ml.fabrique.social.gouv.fr/v1/models/sentqam",
     "slug": "serving-ml",
     "status": "up",
-    "uptime": "99.98%",
-    "time": 566
+    "uptime": "99.99%",
+    "time": 558
   },
   {
     "name": "emjpm",
@@ -45,7 +45,7 @@
     "slug": "emjpm",
     "status": "up",
     "uptime": "99.97%",
-    "time": 791
+    "time": 785
   },
   {
     "name": "portail PJM",
@@ -53,7 +53,7 @@
     "slug": "portail-pjm",
     "status": "up",
     "uptime": "100.00%",
-    "time": 767
+    "time": 764
   },
   {
     "name": "work-in-france",
@@ -61,7 +61,7 @@
     "slug": "work-in-france",
     "status": "up",
     "uptime": "100.00%",
-    "time": 680
+    "time": 670
   },
   {
     "name": "covid-19",
@@ -69,7 +69,7 @@
     "slug": "covid-19",
     "status": "up",
     "uptime": "100.00%",
-    "time": 661
+    "time": 657
   },
   {
     "name": "TuMePlay",
@@ -77,7 +77,7 @@
     "slug": "tu-me-play",
     "status": "up",
     "uptime": "100.00%",
-    "time": 592
+    "time": 591
   },
   {
     "name": "medlé",
@@ -85,7 +85,7 @@
     "slug": "medle",
     "status": "up",
     "uptime": "100.00%",
-    "time": 552
+    "time": 544
   },
   {
     "name": "ONVS",
@@ -93,7 +93,7 @@
     "slug": "onvs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 665
+    "time": 664
   },
   {
     "name": "DomiFa",
@@ -101,15 +101,15 @@
     "slug": "domi-fa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 519
+    "time": 516
   },
   {
     "name": "Standup",
     "url": "https://standup.fabrique.social.gouv.fr/healthz",
     "slug": "standup",
     "status": "up",
-    "uptime": "99.97%",
-    "time": 750
+    "uptime": "99.98%",
+    "time": 729
   },
   {
     "name": "Carnets",
@@ -117,7 +117,7 @@
     "slug": "carnets",
     "status": "up",
     "uptime": "100.00%",
-    "time": 628
+    "time": 615
   },
   {
     "name": "Archifiltre",
@@ -125,7 +125,7 @@
     "slug": "archifiltre",
     "status": "up",
     "uptime": "100.00%",
-    "time": 674
+    "time": 669
   },
   {
     "name": "MonSuiviPsy",
@@ -133,31 +133,31 @@
     "slug": "mon-suivi-psy",
     "status": "up",
     "uptime": "100.00%",
-    "time": 609
+    "time": 601
   },
   {
     "name": "OzEnsemble",
     "url": "https://ozensemble.fabrique.social.gouv.fr/",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "68.47%",
-    "time": 416
+    "uptime": "71.42%",
+    "time": 420
   },
   {
     "name": "Matomo",
     "url": "https://matomo.fabrique.social.gouv.fr/",
     "slug": "matomo",
     "status": "up",
-    "uptime": "99.94%",
-    "time": 1095
+    "uptime": "99.95%",
+    "time": 1094
   },
   {
     "name": "Sentry",
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
     "status": "up",
-    "uptime": "99.68%",
-    "time": 1509
+    "uptime": "99.71%",
+    "time": 1479
   },
   {
     "name": "Mattermost",
@@ -165,7 +165,7 @@
     "slug": "mattermost",
     "status": "up",
     "uptime": "100.00%",
-    "time": 524
+    "time": 514
   },
   {
     "name": "NextCloud",
@@ -173,7 +173,7 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 872
+    "time": 866
   },
   {
     "name": "Sample Next App",
