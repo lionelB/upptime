@@ -140,7 +140,7 @@
     "url": "https://ozensemble.fabrique.social.gouv.fr/",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "76.94%",
+    "uptime": "76.95%",
     "time": 431
   },
   {
@@ -155,9 +155,9 @@
     "name": "Sentry",
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
-    "status": "down",
-    "uptime": "99.31%",
-    "time": 1892
+    "status": "up",
+    "uptime": "99.28%",
+    "time": 1864
   },
   {
     "name": "Mattermost",
