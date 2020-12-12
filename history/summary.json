@@ -5,7 +5,7 @@
     "slug": "fabrique",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1224
+    "time": 1228
   },
   {
     "name": "Index EgaPro",
@@ -13,7 +13,7 @@
     "slug": "index-ega-pro",
     "status": "up",
     "uptime": "100.00%",
-    "time": 792
+    "time": 786
   },
   {
     "name": "Code du travail",
@@ -21,7 +21,7 @@
     "slug": "code-du-travail",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1191
+    "time": 1177
   },
   {
     "name": "siret2idcc",
@@ -29,7 +29,7 @@
     "slug": "siret2idcc",
     "status": "up",
     "uptime": "100.00%",
-    "time": 601
+    "time": 595
   },
   {
     "name": "serving-ml",
@@ -45,7 +45,7 @@
     "slug": "emjpm",
     "status": "up",
     "uptime": "99.98%",
-    "time": 775
+    "time": 769
   },
   {
     "name": "portail PJM",
@@ -53,7 +53,7 @@
     "slug": "portail-pjm",
     "status": "up",
     "uptime": "100.00%",
-    "time": 747
+    "time": 746
   },
   {
     "name": "work-in-france",
@@ -61,7 +61,7 @@
     "slug": "work-in-france",
     "status": "up",
     "uptime": "100.00%",
-    "time": 657
+    "time": 650
   },
   {
     "name": "covid-19",
@@ -69,7 +69,7 @@
     "slug": "covid-19",
     "status": "up",
     "uptime": "100.00%",
-    "time": 633
+    "time": 628
   },
   {
     "name": "TuMePlay",
@@ -77,7 +77,7 @@
     "slug": "tu-me-play",
     "status": "up",
     "uptime": "100.00%",
-    "time": 592
+    "time": 591
   },
   {
     "name": "medlé",
@@ -85,7 +85,7 @@
     "slug": "medle",
     "status": "up",
     "uptime": "100.00%",
-    "time": 522
+    "time": 525
   },
   {
     "name": "ONVS",
@@ -101,7 +101,7 @@
     "slug": "domi-fa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 504
+    "time": 499
   },
   {
     "name": "Standup",
@@ -109,7 +109,7 @@
     "slug": "standup",
     "status": "up",
     "uptime": "99.98%",
-    "time": 666
+    "time": 654
   },
   {
     "name": "Carnets",
@@ -117,7 +117,7 @@
     "slug": "carnets",
     "status": "up",
     "uptime": "100.00%",
-    "time": 579
+    "time": 573
   },
   {
     "name": "Archifiltre",
@@ -125,7 +125,7 @@
     "slug": "archifiltre",
     "status": "up",
     "uptime": "100.00%",
-    "time": 656
+    "time": 653
   },
   {
     "name": "MonSuiviPsy",
@@ -133,15 +133,15 @@
     "slug": "mon-suivi-psy",
     "status": "up",
     "uptime": "100.00%",
-    "time": 585
+    "time": 589
   },
   {
     "name": "OzEnsemble",
     "url": "https://ozensemble.fabrique.social.gouv.fr/",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "78.55%",
-    "time": 438
+    "uptime": "79.21%",
+    "time": 441
   },
   {
     "name": "Matomo",
@@ -156,8 +156,8 @@
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
     "status": "up",
-    "uptime": "99.28%",
-    "time": 1784
+    "uptime": "99.31%",
+    "time": 1761
   },
   {
     "name": "Mattermost",
@@ -165,7 +165,7 @@
     "slug": "mattermost",
     "status": "up",
     "uptime": "100.00%",
-    "time": 491
+    "time": 487
   },
   {
     "name": "NextCloud",
@@ -173,7 +173,7 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 852
+    "time": 849
   },
   {
     "name": "Sample Next App",
@@ -181,7 +181,7 @@
     "slug": "sample-next-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 420
+    "time": 418
   },
   {
     "name": "GitLab",
@@ -189,6 +189,6 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1408
+    "time": 1217
   }
 ]
