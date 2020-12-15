@@ -99,9 +99,9 @@
     "name": "DomiFa",
     "url": "https://domifa.fabrique.social.gouv.fr/",
     "slug": "domi-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 523
+    "time": 517
   },
   {
     "name": "Standup",
@@ -140,7 +140,7 @@
     "url": "https://ozensemble.fabrique.social.gouv.fr/",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "82.74%",
+    "uptime": "83.26%",
     "time": 445
   },
   {
@@ -156,7 +156,7 @@
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.44%",
     "time": 1695
   },
   {
