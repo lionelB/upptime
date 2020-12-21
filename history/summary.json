@@ -155,9 +155,9 @@
     "name": "Sentry",
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "slug": "sentry",
-    "status": "down",
-    "uptime": "99.45%",
-    "time": 1747
+    "status": "up",
+    "uptime": "99.43%",
+    "time": 1731
   },
   {
     "name": "Mattermost",
