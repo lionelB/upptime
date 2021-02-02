@@ -1,7 +1,7 @@
 url: https://matomo.fabrique.social.gouv.fr/
-status: down
-code: 503
-responseTime: 417
-lastUpdated: 2021-02-02T10:40:39.302Z
+status: up
+code: 200
+responseTime: 1114
+lastUpdated: 2021-02-02T13:34:36.799Z
 startTime: Fri Nov 27 2020 08:29:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
