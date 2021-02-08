@@ -97,9 +97,9 @@
     "url": "https://emjpm.fabrique.social.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/emjpm.fabrique.social.gouv.fr",
     "slug": "emjpm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +109,7 @@
     "timeMonth": 485,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2021-02-08": 0,
       "2020-12-06": 5
     }
   },
@@ -325,11 +326,11 @@
     "icon": "https://favicons.githubusercontent.com/ozensemble.fabrique.social.gouv.fr",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "95.85%",
+    "uptime": "95.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.85%",
+    "uptimeYear": "95.86%",
     "time": 524,
     "timeDay": 569,
     "timeWeek": 527,
