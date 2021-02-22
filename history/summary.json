@@ -253,9 +253,9 @@
     "url": "https://standup.fabrique.social.gouv.fr/healthz",
     "icon": "https://favicons.githubusercontent.com/standup.fabrique.social.gouv.fr",
     "slug": "standup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
@@ -265,6 +265,7 @@
     "timeMonth": 449,
     "timeYear": 495,
     "dailyMinutesDown": {
+      "2021-02-22": 0,
       "2021-01-28": 66,
       "2020-11-30": 4
     }
@@ -329,11 +330,11 @@
     "icon": "https://favicons.githubusercontent.com/ozensemble.fabrique.social.gouv.fr",
     "slug": "oz-ensemble",
     "status": "up",
-    "uptime": "96.48%",
+    "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.49%",
     "time": 525,
     "timeDay": 562,
     "timeWeek": 531,
