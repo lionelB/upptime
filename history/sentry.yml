@@ -1,7 +1,7 @@
 url: https://sentry.fabrique.social.gouv.fr/
-status: down
-code: 503
-responseTime: 369
-lastUpdated: 2021-02-24T11:04:24.765Z
+status: up
+code: 200
+responseTime: 855
+lastUpdated: 2021-02-24T11:27:07.208Z
 startTime: Fri Nov 27 2020 08:29:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
