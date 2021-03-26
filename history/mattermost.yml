@@ -1,7 +1,7 @@
 url: https://mattermost.fabrique.social.gouv.fr/
-status: down
-code: 503
-responseTime: 668
-lastUpdated: 2021-03-26T14:06:24.494Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2021-03-26T14:16:35.743Z
 startTime: Fri Nov 27 2020 08:29:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
