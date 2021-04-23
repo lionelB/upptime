@@ -40,11 +40,11 @@
     "url": "https://code.travail.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/code.travail.gouv.fr",
     "slug": "code-du-travail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1204,
     "timeDay": 4175,
@@ -52,7 +52,7 @@
     "timeMonth": 1506,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2021-04-23": 23
+      "2021-04-23": 31
     }
   },
   {
@@ -60,11 +60,11 @@
     "url": "https://siret2idcc.fabrique.social.gouv.fr/api/v2/82161143100015,80258570300027",
     "icon": "https://favicons.githubusercontent.com/siret2idcc.fabrique.social.gouv.fr",
     "slug": "siret2idcc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 541,
     "timeDay": 561,
@@ -72,7 +72,7 @@
     "timeMonth": 612,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2021-04-23": 23
+      "2021-04-23": 31
     }
   },
   {
@@ -82,8 +82,8 @@
     "slug": "serving-ml",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 523,
@@ -126,18 +126,20 @@
     "url": "https://pjm.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/pjm.social.gouv.fr",
     "slug": "portail-pjm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 747,
     "timeDay": 702,
     "timeWeek": 915,
     "timeMonth": 853,
     "timeYear": 747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-23": 6
+    }
   },
   {
     "name": "work-in-france",
@@ -162,11 +164,11 @@
     "url": "https://covid-19.sante.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/covid-19.sante.gouv.fr",
     "slug": "covid-19",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 670,
     "timeDay": 1200,
@@ -174,7 +176,7 @@
     "timeMonth": 771,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2021-04-23": 22,
+      "2021-04-23": 28,
       "2021-04-21": 16,
       "2021-03-04": 27,
       "2021-03-02": 11,
@@ -188,19 +190,19 @@
     "url": "https://tumeplay.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/tumeplay.fabrique.social.gouv.fr",
     "slug": "tu-me-play",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.93%",
     "time": 595,
     "timeDay": 557,
     "timeWeek": 482,
     "timeMonth": 511,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2021-04-23": 22,
+      "2021-04-23": 27,
       "2021-02-24": 32,
       "2021-02-14": 79
     }
@@ -250,11 +252,11 @@
     "url": "https://domifa.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/domifa.fabrique.social.gouv.fr",
     "slug": "domi-fa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 455,
     "timeDay": 595,
@@ -262,7 +264,7 @@
     "timeMonth": 507,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2021-04-23": 10,
+      "2021-04-23": 14,
       "2020-12-15": 8
     }
   },
@@ -294,11 +296,11 @@
     "url": "https://carnets.fabrique.social.gouv.fr/api/healthz",
     "icon": "https://favicons.githubusercontent.com/carnets.fabrique.social.gouv.fr",
     "slug": "carnets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 470,
     "timeDay": 527,
@@ -306,7 +308,7 @@
     "timeMonth": 493,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2021-04-23": 22
+      "2021-04-23": 25
     }
   },
   {
@@ -314,11 +316,11 @@
     "url": "https://archifiltre.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/archifiltre.fabrique.social.gouv.fr",
     "slug": "archifiltre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 623,
     "timeDay": 698,
@@ -326,7 +328,7 @@
     "timeMonth": 687,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2021-04-23": 22
+      "2021-04-23": 25
     }
   },
   {
@@ -432,18 +434,18 @@
     "icon": "https://favicons.githubusercontent.com/sentry.fabrique.social.gouv.fr",
     "slug": "sentry",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.51%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.51%",
     "time": 1656,
     "timeDay": 680,
     "timeWeek": 713,
     "timeMonth": 2479,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2021-04-23": 11,
+      "2021-04-23": 20,
       "2021-03-17": 11,
       "2021-03-16": 36,
       "2021-03-15": 21,
@@ -490,19 +492,19 @@
     "url": "https://mattermost.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/mattermost.fabrique.social.gouv.fr",
     "slug": "mattermost",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 455,
-    "timeDay": 431,
-    "timeWeek": 429,
-    "timeMonth": 489,
-    "timeYear": 455,
+    "time": 454,
+    "timeDay": 406,
+    "timeWeek": 421,
+    "timeMonth": 486,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-04-23": 14
+      "2021-04-23": 22
     }
   },
   {
@@ -510,10 +512,10 @@
     "url": "https://nextcloud.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/nextcloud.fabrique.social.gouv.fr",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 779,
@@ -522,7 +524,7 @@
     "timeMonth": 776,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2021-04-23": 12,
+      "2021-04-23": 13,
       "2021-03-10": 37
     }
   },
@@ -533,9 +535,9 @@
     "slug": "sample-next-app",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 444,
     "timeDay": 418,
@@ -543,7 +545,7 @@
     "timeMonth": 496,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2021-04-23": 12
+      "2021-04-23": 22
     }
   },
   {
