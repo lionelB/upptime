@@ -1,7 +1,7 @@
 url: https://medle.fabrique.social.gouv.fr/
-status: down
-code: 502
-responseTime: 2832
-lastUpdated: 2021-05-12T06:59:00.293Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2021-05-12T07:27:58.871Z
 startTime: Fri Nov 27 2020 08:23:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
