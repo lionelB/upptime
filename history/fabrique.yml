@@ -1,7 +1,7 @@
 url: https://fabrique.social.gouv.fr
-status: down
-code: 500
-responseTime: 643
-lastUpdated: 2021-05-27T23:27:35.305Z
+status: up
+code: 200
+responseTime: 958
+lastUpdated: 2021-05-28T02:19:27.708Z
 startTime: Fri Nov 27 2020 08:22:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
