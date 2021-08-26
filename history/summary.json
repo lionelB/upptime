@@ -164,9 +164,9 @@
     "url": "https://work-in-france.fabrique.social.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/work-in-france.fabrique.social.gouv.fr",
     "slug": "work-in-france",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -176,6 +176,7 @@
     "timeMonth": 589,
     "timeYear": 597,
     "dailyMinutesDown": {
+      "2021-08-26": 0,
       "2021-06-14": 66,
       "2021-04-23": 73
     }
@@ -338,7 +339,7 @@
     "slug": "carnets",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "67.14%",
+    "uptimeDay": "79.60%",
     "uptimeWeek": "88.46%",
     "uptimeMonth": "97.34%",
     "uptimeYear": "99.67%",
@@ -523,9 +524,9 @@
     "url": "https://sentry.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/sentry.fabrique.social.gouv.fr",
     "slug": "sentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
@@ -535,6 +536,7 @@
     "timeMonth": 751,
     "timeYear": 1516,
     "dailyMinutesDown": {
+      "2021-08-26": 0,
       "2021-07-08": 7,
       "2021-07-01": 31,
       "2021-06-22": 47,
