@@ -18,8 +18,6 @@ sites:
     url: https://emjpm.fabrique.social.gouv.fr
   - name: portail PJM
     url: https://pjm.social.gouv.fr/
-  - name: work-in-france
-    url: https://work-in-france.fabrique.social.gouv.fr
   - name: covid-19
     url: https://covid-19.sante.gouv.fr
   - name: TuMePlay
