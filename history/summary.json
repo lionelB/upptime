@@ -416,10 +416,10 @@
     "url": "https://matomo.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/matomo.fabrique.social.gouv.fr",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "98.92%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.31%",
     "time": 1284,
@@ -428,7 +428,7 @@
     "timeMonth": 1183,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2021-09-21": 61,
+      "2021-09-21": 62,
       "2021-09-20": 38,
       "2021-09-18": 10,
       "2021-09-14": 11,
@@ -506,8 +506,7 @@
       "2021-02-03": 24,
       "2021-02-02": 338,
       "2021-02-01": 312,
-      "2021-01-29": 29,
-      "2021-01-27": 25
+      "2021-01-29": 29
     }
   },
   {
@@ -589,10 +588,10 @@
     "url": "https://mattermost.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/mattermost.fabrique.social.gouv.fr",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.93%",
     "time": 453,
