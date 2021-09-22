@@ -228,12 +228,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
     "time": 568,
     "timeDay": 389,
     "timeWeek": 567,
-    "timeMonth": 588,
+    "timeMonth": 589,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2021-08-22": 51,
@@ -416,9 +416,9 @@
     "url": "https://matomo.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/matomo.fabrique.social.gouv.fr",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "93.79%",
+    "uptimeDay": "93.78%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.31%",
@@ -428,6 +428,7 @@
     "timeMonth": 1177,
     "timeYear": 1283,
     "dailyMinutesDown": {
+      "2021-09-22": 0,
       "2021-09-21": 90,
       "2021-09-20": 38,
       "2021-09-18": 10,
@@ -505,8 +506,7 @@
       "2021-02-05": 21,
       "2021-02-03": 24,
       "2021-02-02": 338,
-      "2021-02-01": 312,
-      "2021-01-29": 29
+      "2021-02-01": 312
     }
   },
   {
