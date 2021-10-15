@@ -617,10 +617,10 @@
     "url": "https://nextcloud.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/nextcloud.fabrique.social.gouv.fr",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 782,
@@ -629,6 +629,7 @@
     "timeMonth": 774,
     "timeYear": 782,
     "dailyMinutesDown": {
+      "2021-10-15": 1,
       "2021-04-23": 125,
       "2021-03-10": 37
     }
