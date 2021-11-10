@@ -328,11 +328,11 @@
     "icon": "https://favicons.githubusercontent.com/carnets.fabrique.social.gouv.fr",
     "slug": "carnets",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 497,
     "timeDay": 641,
     "timeWeek": 502,
@@ -418,10 +418,10 @@
     "url": "https://matomo.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/matomo.fabrique.social.gouv.fr",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 1266,
@@ -430,6 +430,7 @@
     "timeMonth": 1167,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2021-11-10": 1,
       "2021-09-21": 90,
       "2021-09-20": 38,
       "2021-09-18": 10,
@@ -507,8 +508,7 @@
       "2021-02-05": 21,
       "2021-02-03": 24,
       "2021-02-02": 338,
-      "2021-02-01": 312,
-      "2021-01-29": 29
+      "2021-02-01": 312
     }
   },
   {
