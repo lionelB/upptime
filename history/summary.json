@@ -74,7 +74,7 @@
     "icon": "https://favicons.githubusercontent.com/siret2idcc.fabrique.social.gouv.fr",
     "slug": "siret2idcc",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
@@ -412,18 +412,19 @@
     "url": "https://matomo.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/matomo.fabrique.social.gouv.fr",
     "slug": "matomo",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.49%",
     "time": 1253,
     "timeDay": 1019,
     "timeWeek": 1043,
     "timeMonth": 1131,
     "timeYear": 1256,
     "dailyMinutesDown": {
+      "2021-12-07": 1,
       "2021-12-01": 19,
       "2021-09-21": 90,
       "2021-09-20": 38,
@@ -501,8 +502,7 @@
       "2021-02-07": 21,
       "2021-02-05": 21,
       "2021-02-03": 24,
-      "2021-02-02": 338,
-      "2021-02-01": 312
+      "2021-02-02": 338
     }
   },
   {
