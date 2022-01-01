@@ -348,7 +348,7 @@
     "icon": "https://favicons.githubusercontent.com/archifiltre.fabrique.social.gouv.fr",
     "slug": "archifiltre",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -410,18 +410,19 @@
     "url": "https://matomo.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/matomo.fabrique.social.gouv.fr",
     "slug": "matomo",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.49%",
     "time": 1265,
     "timeDay": 1065,
     "timeWeek": 1382,
     "timeMonth": 1332,
     "timeYear": 1277,
     "dailyMinutesDown": {
+      "2022-01-01": 1,
       "2021-12-01": 19,
       "2021-09-21": 90,
       "2021-09-20": 38,
@@ -499,8 +500,7 @@
       "2021-02-07": 21,
       "2021-02-05": 21,
       "2021-02-03": 24,
-      "2021-02-02": 338,
-      "2021-02-01": 312
+      "2021-02-02": 338
     }
   },
   {
