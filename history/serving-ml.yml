@@ -1,7 +1,7 @@
 url: https://serving-ml.fabrique.social.gouv.fr/v1/models/sentqam
-status: down
-code: 503
-responseTime: 386
-lastUpdated: 2022-01-12T17:47:26.330Z
+status: up
+code: 200
+responseTime: 508
+lastUpdated: 2022-01-12T17:53:47.747Z
 startTime: Fri Nov 27 2020 08:29:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
